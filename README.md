@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/SongGuorong/EDRNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=EDRNet&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=EDRNet&theme=buefy&show" />
 </a>
 <a href="https://github.com/SongGuorong/MCITF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy&show" />
 </a>
 
 <br /> 
