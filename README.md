@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SongGuorong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sgr0216's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongGuorong&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SongGuorong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&count_private=true" alt="sgr0216's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongGuorong&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/SongGuorong/EDRNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=EDRNet&theme=buefy&hide" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=EDRNet&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/SongGuorong/MCITF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy&show" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy&show_owner=true" />
 </a>
 
 <br /> 
