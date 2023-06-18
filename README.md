@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/SongGuorong/shopMall">
-  <img align="center" style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=shopMall&theme=buefy&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=shopMall&theme=buefy&show_owner=true" />
 </a>
 
 <br /> 
