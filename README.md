@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SongGuorong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="sgr0216's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongGuorong&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SongGuorong&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="sgr0216's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongGuorong&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/SongGuorong/MCITF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SongGuorong&repo=MCITF&theme=buefy&show_owner=true" />
 </a>
-
-<br /> 
-<br />
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
